@@ -1,3 +1,0 @@
-The original text of Bachelor thesis is in `bakalarska_prace.pdf` file in Czech language. It's machine-translated counterpart is in `bachelor_thesis.pdf` in English language - for result data, tables or math expressions, refer to the original text.
-
-The review of the opponent is document `posudek_bakalarske_prace.pdf` - original file in Czech language, the machine-translated version is in `opinion_of_the_opponent.pdf`.
